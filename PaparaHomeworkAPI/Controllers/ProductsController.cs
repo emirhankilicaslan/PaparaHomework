@@ -43,7 +43,7 @@ namespace PaparaHomeworkAPI.Controllers
             await _productService.CreateProduct(product);
             return Ok("Urun basariyla olusturuldu.");
         }
-        [HttpPut()]
+        [HttpPut]
         public async Task<IActionResult> Update([FromBody]Product product)
         {
             try
