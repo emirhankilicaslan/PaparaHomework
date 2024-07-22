@@ -38,3 +38,4 @@
 /Users/emirhankilicaslan/Desktop/aspnet-core-project/PaparaHomework/PaparaHomeworkAPI/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/emirhankilicaslan/Desktop/aspnet-core-project/PaparaHomework/PaparaHomeworkAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/emirhankilicaslan/Desktop/aspnet-core-project/PaparaHomework/PaparaHomeworkAPI/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/emirhankilicaslan/Desktop/aspnet-core-project/PaparaHomework/PaparaHomeworkAPI/obj/Debug/net7.0/PaparaHomeworkAPI.sourcelink.json
